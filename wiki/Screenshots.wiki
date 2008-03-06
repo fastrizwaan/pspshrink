@@ -1,4 +1,5 @@
 #summary Screenshots of pspshrink ui
+#labels Featured
 
 Mainwindow
 
