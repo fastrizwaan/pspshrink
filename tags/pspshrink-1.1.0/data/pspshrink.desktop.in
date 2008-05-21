@@ -1,0 +1,11 @@
+
+[Desktop Entry]
+Version=1.0.0
+Encoding=UTF-8
+Name=PspShrink
+Comment=Compress/Decompress iso images for the psp
+Exec=pspshrinkui
+Icon=@prefix@/share/pixmaps/pspshrink.svg
+Terminal=false
+Type=Application
+Categories=Utility;
