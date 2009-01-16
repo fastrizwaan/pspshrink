@@ -1,0 +1,13 @@
+Pspshrink
+
+version 1.1.1 (16-01-2009)
+- Fixed crash when application icon could not be found
+
+version 1.1.0 (21-05-2008)
+- Added application icon (credits to Oni Lukos)
+
+version 1.0.1 (20-05-2008)
+- Fixed missing includes when compiling with gcc 4.3
+
+version 1.0.0
+- Initial release of the Pspshrink
